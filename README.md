@@ -1,3 +1,7 @@
+依赖下载有问题以及项目启动问题可以参考这些文章即可解决
+https://ask.csdn.net/questions/7407546
+
+
 # 0. 预览
 
 ![](http://study.esunr.xyz/1583661197624.jpg)
